@@ -1,0 +1,30 @@
+
+body {
+    background-color: #FAD3E7;
+    
+ }
+ h1{
+    color:#66BFBF ;
+    font-family: cursive;
+ }
+ h3{
+    color:#66BFBF ; 
+ }
+ hr {
+    
+    border-style: none;
+    border-top-style: dotted;
+    border-color: white;
+    border-width: 5px;
+    height: 10%;
+    width: 5%;
+ }
+ img{
+    height: 200px;
+    width: 200px;
+ }
+ table, th, td,tr {
+    border: 0px;
+    width : 50%;
+    text-align: center;
+  }
